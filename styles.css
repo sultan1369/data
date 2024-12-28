@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form input, form select, form textarea, form button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+form button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+.user-details p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+}
+
+.user-details strong {
+    color: #333;
+}
+.container {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #555;
+    margin: 20px 0;
+}
+
+.button-group {
+    margin-top: 30px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+.btn1 {
+    text-decoration: none;
+    color: white;
+    background-color: #af4c4c;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.btn1:hover {
+    background-color: #a04545;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #ddd;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+.container p {
+    margin-top: 15px;
+    font-size: 1rem;
+    color: #555;
+}
+
+.container p a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container p a:hover {
+    text-decoration: underline;
+}
+.home-link a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-link a:hover {
+    text-decoration: underline;
+}
+
